@@ -5,6 +5,6 @@
         {
          echo $j;
          }
-          echo "<br>";
+          echo "\n";
       }
  ?>
